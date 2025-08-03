@@ -13,3 +13,11 @@ int main() {
 
     return 0;
 }
+
+Output:
+Bitwise AND (a & b): 2
+Bitwise OR (a | b): 7
+Bitwise XOR (a ^ b): 5
+Bitwise NOT (~a): -7
+Left Shift (a << 1): 12
+Right Shift (a >> 1): 3
